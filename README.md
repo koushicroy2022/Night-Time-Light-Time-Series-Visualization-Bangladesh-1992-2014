@@ -21,3 +21,24 @@ The animation highlights the gradual increase in urban brightness, reflecting ec
 - Git & GitHub for version control
 
 ---
+
+## 📸 Outputs
+| Year | Visualization |
+|------|----------------|
+| 1992 | ![1992](results/ntl_bangladesh_1992.png) |
+| 2014 | ![2014](results/ntl_bangladesh_2014.png) |
+
+Animated GIF:
+![GIF](results/ntl_animation.gif)
+
+---
+
+## 🔗 View Code
+[View the full GEE script on GitHub](nighttime_light_bangladesh.js)
+
+---
+
+## 💡 Insights
+- Noticeable illumination growth around **Dhaka** and **Gazipur** after 2000.
+- Rural areas remain relatively dim throughout 1992–2014.
+- Night-time light intensity can serve as a proxy for urban expansion and economic activity.
